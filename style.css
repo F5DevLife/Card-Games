@@ -4,5 +4,10 @@ body {
 
 main {
     background-color: #598d5a;
+    border: solid #749f74;
+    //border: solid #8fb28e
 }
 
+.play-areas {
+    background-color: #749f74
+}
