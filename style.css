@@ -6,7 +6,10 @@ main {
     background-color: #598d5a;
     //border: solid #749f74 5px;
     height: 90vh;
+    //min-height
     width: 90vw;
+    //min-width
+    margin: 5vh 5vw;
 }
 
 .play-areas {
